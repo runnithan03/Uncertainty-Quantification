@@ -1,10 +1,3 @@
----
-title: "Uncertainty Quantification"
-author: "Raul Unnithan"
-date: "20 January 2025"
-output: github_document
----
-
 # 📌 Overview
 
 This repository contains code, methods, and visualisations for a mini-project in **Uncertainty Quantification IV**, completed as part of the MATH module at Durham University. The project focuses on developing and applying **Bayes Linear emulators** to understand and approximate computational models with uncertain inputs and outputs.

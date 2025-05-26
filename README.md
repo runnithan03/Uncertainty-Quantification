@@ -17,10 +17,8 @@ The analysis follows a structured approach based on the course practicals, progr
 | File               | Purpose |
 |--------------------|---------|
 | `Practicals`       | 1. Intro to 1D emulation with full BL formulation and prediction intervals.<br>2. Extension to 2D emulation using grid design and contour visualisation<br>3. History matching implementation and implausibility function diagnostics<br>4. Efficient emulation via matrix algebra and `pdist` for large-scale prediction |
-| `New_Code.R`       | Final cleaned and integrated pipeline with all methods in one file |
-| `Raul_Unnithan_Report.pdf` | Final mini-project report, with commentary and plots |
-| `Mini-Project Report Guidelines.pdf` | Project instructions and marking criteria from the module |
-
+| `UQ Notes`       | Full notes on the Uncertainty Quantification IV Module |
+| `Mini-Project Report` | Final mini-project report, with commentary and plots |
 
 # 🧠 Physical Model
 

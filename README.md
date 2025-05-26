@@ -16,10 +16,10 @@ The analysis follows a structured approach based on the course practicals, progr
 
 | File               | Purpose |
 |--------------------|---------|
-| `UQ4 1.R`          | Intro to 1D emulation with full BL formulation and prediction intervals |
-| `UQ4 2.R`          | Extension to 2D emulation using grid design and contour visualisation |
-| `UQ4 3.R`          | History matching implementation and implausibility function diagnostics |
-| `UQ4 4.R`          | Efficient emulation via matrix algebra and `pdist` for large-scale prediction |
+| `Practicals`         | 1. Intro to 1D emulation with full BL formulation and prediction intervals.
+                         2. Extension to 2D emulation using grid design and contour visualisation
+                         3. History matching implementation and implausibility function diagnostics
+                         4. Efficient emulation via matrix algebra and `pdist` for large-scale prediction |
 | `New_Code.R`       | Final cleaned and integrated pipeline with all methods in one file |
 | `Raul_Unnithan_Report.pdf` | Final mini-project report, with commentary and plots |
 | `Mini-Project Report Guidelines.pdf` | Project instructions and marking criteria from the module |
